@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0344-reverse-string) |
 ## Binary Search
