@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 ## Prefix Sum
@@ -63,6 +66,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -85,5 +89,10 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
