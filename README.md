@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
@@ -79,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
