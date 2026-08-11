@@ -22,6 +22,7 @@
 | [0704-binary-search](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0724-find-pivot-index) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
+| [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0205-isomorphic-strings](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0387-first-unique-character-in-a-string) |
+| [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
 | ------- |
