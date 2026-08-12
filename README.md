@@ -54,6 +54,7 @@
 | [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -80,6 +82,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0387-first-unique-character-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
