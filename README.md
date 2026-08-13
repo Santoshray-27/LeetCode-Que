@@ -23,6 +23,7 @@
 | [0724-find-pivot-index](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0724-find-pivot-index) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +98,7 @@
 | [0189-rotate-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
