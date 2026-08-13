@@ -60,6 +60,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0242-valid-anagram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
 ## Trie
 |  |
