@@ -99,6 +99,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
