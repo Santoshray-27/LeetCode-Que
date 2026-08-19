@@ -109,6 +109,7 @@
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
+| [2652-sum-multiples](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2652-sum-multiples) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
