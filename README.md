@@ -25,6 +25,7 @@
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sliding Window
 |  |
@@ -71,6 +72,7 @@
 | [0217-contains-duplicate](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
+| [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,8 +149,13 @@
 | ------- |
 | [0258-add-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
