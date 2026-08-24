@@ -11,7 +11,7 @@ public:
             newRow[i] = prevRows.back()[i - 1] + prevRows.back()[i];
         }
         
-        prevRows.push_bak(newRow);
+        prevRows.push_back(newRow);
         return prevRows;
     }
 };
