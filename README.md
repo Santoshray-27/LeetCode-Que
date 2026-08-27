@@ -29,6 +29,7 @@
 | [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3701-compute-alternating-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0258-add-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0412-fizz-buzz) |
 | [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
