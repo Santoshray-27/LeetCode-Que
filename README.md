@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0066-plus-one) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
