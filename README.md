@@ -45,6 +45,7 @@
 | [0141-linked-list-cycle](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0344-reverse-string) |
 ## Binary Search
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -174,4 +176,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
