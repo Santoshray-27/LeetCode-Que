@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -183,5 +184,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
