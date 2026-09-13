@@ -50,6 +50,7 @@
 | [0234-palindrome-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0206-reverse-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
