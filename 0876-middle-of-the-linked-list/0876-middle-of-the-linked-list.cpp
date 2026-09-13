@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+//  Basic solution with two iterations...I will fix it using two pointers
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
