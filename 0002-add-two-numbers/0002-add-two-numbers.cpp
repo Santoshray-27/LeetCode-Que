@@ -28,7 +28,7 @@ public:
             carry = sum / 10;
 
             curr->next = newNode;
-            curr = curr->next;
+            curr = newNode;
 
             if(t1) t1 = t1->next;
             if(t2) t2 = t2->next;
