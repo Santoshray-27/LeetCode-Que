@@ -18,7 +18,7 @@ public:
 
         int carry = 0;
 
-        while(t1 != nullptr || t2 != nullptr){
+        while(t1 || t2){
             int sum = carry;
 
             if(t1) sum += t1->val;
