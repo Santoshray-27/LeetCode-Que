@@ -33,6 +33,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3701-compute-alternating-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3875-construct-uniform-parity-array-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3925-concatenate-array-with-reverse) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0412-fizz-buzz](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0412-fizz-buzz) |
 | [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3701-compute-alternating-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
