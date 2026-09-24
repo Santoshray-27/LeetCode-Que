@@ -31,6 +31,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3701-compute-alternating-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3875-construct-uniform-parity-array-i) |
@@ -81,6 +82,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0169-majority-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
