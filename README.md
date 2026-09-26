@@ -53,6 +53,7 @@
 | [0234-palindrome-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -69,6 +70,7 @@
 | [0053-maximum-subarray](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0242-valid-anagram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
