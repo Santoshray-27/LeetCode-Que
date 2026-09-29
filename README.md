@@ -140,6 +140,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3099-harshad-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3099-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
