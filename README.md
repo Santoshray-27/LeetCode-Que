@@ -25,6 +25,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1672-richest-customer-wealth) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -134,6 +135,7 @@
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2652-sum-multiples) |
