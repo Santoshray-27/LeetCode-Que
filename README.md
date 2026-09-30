@@ -35,6 +35,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -237,4 +238,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
