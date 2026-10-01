@@ -149,6 +149,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2652-sum-multiples) |
@@ -205,6 +206,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0412-fizz-buzz) |
+| [1518-water-bottles](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
