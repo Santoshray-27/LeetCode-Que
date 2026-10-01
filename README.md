@@ -96,6 +96,7 @@
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3945-digit-frequency-score](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [3099-harshad-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3099-harshad-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3875-construct-uniform-parity-array-i) |
+| [3945-digit-frequency-score](https://github.com/Santoshray-27/LeetCode-Que/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
