@@ -29,6 +29,7 @@
 | [0724-find-pivot-index](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1929-concatenation-of-array) |
@@ -114,6 +115,7 @@
 | [0238-product-of-array-except-self](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
