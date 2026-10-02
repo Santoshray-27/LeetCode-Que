@@ -31,6 +31,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -207,6 +208,7 @@
 | [0258-add-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1518-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2974-minimum-number-game) |
