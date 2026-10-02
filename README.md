@@ -151,6 +151,7 @@
 | [0412-fizz-buzz](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2235-add-two-integers) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
 | ------- |
