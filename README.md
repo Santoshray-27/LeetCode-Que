@@ -33,6 +33,7 @@
 | [1512-number-of-good-pairs](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -116,6 +117,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
