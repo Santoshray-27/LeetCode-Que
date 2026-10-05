@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0088-merge-sorted-array) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0704-binary-search) |
