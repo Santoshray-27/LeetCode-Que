@@ -30,6 +30,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0724-find-pivot-index) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/1480-running-sum-of-1d-array) |
@@ -83,6 +84,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Santoshray-27/LeetCode-Que/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0128-longest-consecutive-sequence) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Santoshray-27/LeetCode-Que/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
